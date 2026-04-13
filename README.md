@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Thanks for clicking my README! I am Marcus, my pronouns are he/him. 
+I am Marcus, my pronouns are he/him. 
 
 After 7 years building Learning for workplaces, I'm currently learning C# on a 14 week bootcamp with Northcoders. 
 
