@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Thanks for clicking my README! I am Marcus, my pronouns are he/him. 
+
+After 7 years building Learning for workplaces, I'm currently learning C# on a 14 week bootcamp with Northcoders. 
+
+I'm looking for help and inspiration on how to build accessible code and products. 
+
+If you would like to get in touch, please message me through my LinkedIn: www.linkedin.com/in/marcus-paterson
+
